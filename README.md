@@ -1,7 +1,5 @@
-<h1 align="center"> 👋 Welcome to My GitHub Profile </h1>
-
-<h1 align="center">
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pehan-janu.Pehan-janu" />
+<span><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pehan-janu.Pehan-janu" /></span>
+<h1 align="center"> 👋 Welcome to My GitHub Profile </h1> 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pehan+Januka!;Full-Stack+Developer;CS+Undergraduate;@+University+Of+Westminster;Mobile+%26+Web+Developer;MERN+Enthusiast;" />
 </h1>
@@ -46,35 +44,12 @@
 </div>
 
 ---
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,dart,flutter,react,nextjs,html,css,tailwind,bootstrap,nodejs,spring,mysql,postgres,mongodb,firebase,aws,vscode,git,github,figma,npm,yarn,docker" />
 </div>
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
 ---
 
 ## 🐍 Contribution Graph
