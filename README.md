@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pehan+Januka!;Full-Stack+Developer;CS+Undergraduate;@+University+Of+Westminster;Mobile+%26+Web+Developer;MERN+Enthusiast;" />
 </h1>
-<h3 align="center">🎓 A passionate computer science student from Tangalle 🇱🇰</h3>
+<h3 align="center">🎓 A passionate Computer Science student from Tangalle 🇱🇰</h3>
 </h1>
 
 ---
@@ -14,7 +14,7 @@
  
 🌱 **Currently Learning:** React Native, Node.js, MongoDB, Firebase, Jetpack Compose
 
-💬 **Ask me about:** MERN Stack, Java, OOP, Android, Kotlin, Firebase or anything [here](https://github.com/Pehan-janu)
+💬 **Ask me about:** MERN Stack, Java, OOP, Android, Kotlin, Firebase or anything 
 
 ⚡ **Fun Fact:** I talk to my IDE more than most people 🤓
 
