@@ -54,9 +54,8 @@
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pehan-janu/Pehan-janu/output/github-contribution-grid-snake.svg" />
-</div>
+![snake gif](https://github.com/Pehan-janu/Pehan-janu/blob/output/github-snake-dark.svg)
+
 
 
 
@@ -65,10 +64,26 @@
 
 <div align="center">
 
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Pehan-janu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pehan-janu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
+ <p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pehan-janu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pehan-janu&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pehan-janu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
 
 
 
