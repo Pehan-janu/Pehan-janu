@@ -50,7 +50,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,dart,flutter,react,nextjs,html,css,tailwind,bootstrap,nodejs,spring,mysql,postgres,mongodb,firebase,aws,vscode,git,github,figma,npm,yarn,docker" />
 </div>
----
+
 
 ## 🐍 Contribution Graph
 
@@ -58,38 +58,19 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pehan-janu/Pehan-janu/output/github-contribution-grid-snake.svg" />
 </div>
 
----
+
 
 ## 📊 GitHub Statistics
+---
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Pehan-janu&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Pehan-janu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pehan-janu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
----
 
-## 🎯 Current Goals
-
-- 🔭 Working on full-stack web applications using MERN stack
-- 🌟 Contributing to open-source projects
-- 📚 Learning advanced mobile development with React Native
-- 🏗️ Building scalable applications with modern architectures
-- 🤝 Collaborating with fellow developers on innovative projects
-
----
-
-## 💡 Fun Projects & Interests
-
-- 📱 Mobile app development (Android & iOS)
-- 🌐 Full-stack web development
-- 🤖 Exploring AI/ML integrations
-- 🎨 UI/UX design and implementation
-- 📊 Data visualization and analytics
-
----
 
 ## ☕ Support My Work
 
