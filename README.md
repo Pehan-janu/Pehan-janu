@@ -3,17 +3,12 @@
 <h1 align="center"> 👋 Welcome to My GitHub Profile </h1> 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pehan+Januka!;Full-Stack+Developer;CS+Undergraduate;@+University+Of+Westminster;Mobile+%26+Web+Developer;MERN+Enthusiast;" />
-</h1>
-<h3 align="center">🎓 A passionate Computer Science student from Tangalle 🇱🇰</h3>
-</h1>
 
----
 
 ## 🚀 About Me
-
-<div align="left">
+---
  
-🌱 **Currently Learning:** React Native, Node.js, MongoDB, Firebase, Jetpack Compose
+🌱 **Currently Learning:** AWS cloud services, .NET development, Docker containerization, Nest.js 
 
 💬 **Ask me about:** MERN Stack, Java, OOP, Android, Kotlin, Firebase or anything 
 
@@ -23,39 +18,44 @@
 
 🔍 **Always:** Exploring new tech and tools to level up my coding skills and workflow
 
-</div>
 
----
+<br>
 
-<h2 align="center">📫 Connect With Me</h2>
+
+<h3 align="center">📫 Connect With Me</h3>
 
 <div align="center"> 
   <a href="mailto:pehanjanu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
+    
   <a href="https://linkedin.com/in/pehanjanuka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-     <a href="https://www.hackerrank.com/profile/pehanjanu" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
 
- <a href="https://leetcode.com/u/Pehan_J/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
+  <a href="https://www.hackerrank.com/profile/pehanjanu" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  
+  <a href="https://leetcode.com/u/Pehan_J/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 
 </div>
 
----
+<br>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,dart,flutter,react,nextjs,html,css,tailwind,bootstrap,nodejs,spring,mysql,postgres,mongodb,firebase,aws,vscode,git,github,figma,npm,yarn,docker" />
 </div>
 
+<br>
 
 ## 🐍 Contribution Graph
+
+---
 
 ![snake gif](https://github.com/Pehan-janu/Pehan-janu/blob/output/github-snake-dark.svg)
 
