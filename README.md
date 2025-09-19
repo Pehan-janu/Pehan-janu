@@ -2,11 +2,12 @@
 
 <h1 align="center"> 👋 Welcome to My GitHub Profile </h1> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pehan+Januka!;Full-Stack+Developer;CS+Undergraduate;@+University+Of+Westminster;Mobile+%26+Web+Developer;MERN+Enthusiast;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pehan+Januka!;Full-Stack+Developer;AI+Enthusiast;Open+Source+Lover"/>
+</h1>
 
 
 ## 🚀 About Me
----
+--- 
  
 🌱 **Currently Learning:** AWS cloud services, .NET development, Docker containerization, Nest.js 
 
@@ -20,7 +21,6 @@
 
 
 <br>
-
 
 <h3 align="center">📫 Connect With Me</h3>
 
@@ -48,7 +48,7 @@
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,dart,flutter,react,nextjs,html,css,tailwind,bootstrap,nodejs,spring,mysql,postgres,mongodb,firebase,aws,vscode,git,github,figma,npm,yarn,docker" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,dart,flutter,react,nextjs,html,css,tailwind,bootstrap,nodejs,spring,mysql,postgres,mongodb,firebase,aws,vscode,postman,git,github,linux,docker,figma"/>
 </div>
 
 <br>
@@ -58,7 +58,6 @@
 ---
 
 ![snake gif](https://github.com/Pehan-janu/Pehan-janu/blob/output/github-snake-dark.svg)
-
 
 
 
@@ -75,7 +74,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pehan-janu&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pehan-janu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=Pehan-janu&theme=dark&hide_border=false"/>
 </td>
 
 <td width="50%" align="center">
@@ -89,7 +88,6 @@
 
 
 
-
 ## ☕ Support My Work
 
 <div align="center">
@@ -99,7 +97,6 @@
 </div>
 
 ---
-
 
 
 <div align="center">
